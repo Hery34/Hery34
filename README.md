@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently following studies to be a 
+- 🌱 I am currently undergoing professional training to become an application designer and developer
 <!--
 **Hery34/Hery34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
