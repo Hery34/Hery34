@@ -2,7 +2,8 @@
 
 - 🎒 I am currently undergoing professional training to become an application designer and developer
 - 🚀 Some of my projects are deployed,
-- 👇 feel free to take a look at them : 
+- 👇 feel free to take a look at them :
+- https://hery-profile.vercel.app/
 <!--
 **Hery34/Hery34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
