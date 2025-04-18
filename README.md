@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🎒 I am currently undergoing professional training to become an application designer and developer
+- 🎒 I am an application designer and developper
 - 🚀 Some of my projects are deployed,
 - 👇 feel free to take a look at them :
 - https://www.hery.website/
