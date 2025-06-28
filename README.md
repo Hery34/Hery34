@@ -75,5 +75,5 @@ Développeur passionné spécialisé en **Flutter** avec une expertise full-stac
 ### 🎭 Fun facts
 - 📚 Passionné de littérature russe du 18ème siècle
 - 🎸 Amateur de rock des années 1967-1973
-- 🔮 Pratique du tarot et philosophie ésotérique
+- 🔮 Passionné d'esotérisme
 - 🤝 Engagé dans des organisations caritatives
