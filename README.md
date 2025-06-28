@@ -62,7 +62,7 @@ Développeur passionné spécialisé en **Flutter** avec une expertise full-stac
 
 [![Website](https://img.shields.io/badge/Portfolio-hery.website-blue?style=for-the-badge&logo=firefox&logoColor=white)](https://www.hery.website/)
 [![Email](https://img.shields.io/badge/Email-me@hery.website-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me@hery.website)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-hery--rakotomanana--andrianjohany-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hery-rakotomanana-andrianjohany)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-hery--rakotomanana--andrianjohany-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hery-rakotomanana-andrianjohany-/)
 
 ---
 
