@@ -1,16 +1,23 @@
-# 👋 Salut, je suis Hery !
+# 👋 Hey there, I'm Hery!
 
 ## 🚀 Mobile Developer & AI Integration Specialist
 
-Développeur passionné spécialisé en **Flutter** avec une expertise full-stack complète. Je crée des applications mobiles scalables en production chez **Annexx SA** tout en intégrant des solutions IA dans les processus métier.
+Passionate developer specialized in **Flutter** with complete full-stack expertise. I build scalable mobile applications in production at **Annexx SA** while integrating AI solutions into business processes.
 
-### 🎯 Ce que je fais actuellement
-- 📱 Lead developer d'une suite d'applications mobiles en production
-- 🤖 Intégration de l'IA dans les processus business
-- 🔐 Implémentation de solutions MDM robustes
-- ⚡ Migration et modernisation d'applications legacy
+### 🎯 What I'm currently doing
+- 📱 Lead developer for a suite of mobile applications in production
+- 🤖 AI integration in business processes
+- 🔐 Implementation of robust MDM solutions
+- ⚡ Migration and modernization of legacy applications
 
-### 🛠️ Stack technique
+### 📦 Open Source Contributions
+
+**Flutter Package Publisher** - Active contributor to the Flutter ecosystem:
+- 🎉 **500+ downloads** across multiple packages on [pub.dev](https://pub.dev/publishers/hery.website/packages)
+- 🛠️ Publishing production-ready Flutter packages used by the community
+- 🌟 Building tools that solve real-world mobile development challenges
+
+### 🛠️ Tech Stack
 
 #### Frontend & Mobile
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -29,51 +36,57 @@ Développeur passionné spécialisé en **Flutter** avec une expertise full-stac
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-### 🏆 Réalisations notables
-- 🎯 Développement de la v2.0.0 de l'app Annexx (Flutter) avec publication sur App Store & Play Store
-- 🔐 Intégration de l'authentification biométrique et galerie privée
-- 🔄 Migration réussie d'applications Swift vers Flutter
-- 📊 Implémentation d'une solution MDM complète
-- ⚡ Correction et modernisation d'applications legacy Android
+### 🏆 Key Achievements
+- 🎯 Developed Annexx app v2.0.0 (Flutter) with App Store & Play Store publication
+- 🔐 Integrated biometric authentication and private gallery features
+- 🔄 Successfully migrated Swift applications to Flutter
+- 📊 Implemented complete MDM solution
+- ⚡ Fixed and modernized legacy Android applications
+- 📦 **500+ downloads** of Flutter packages on pub.dev
 
 ### 📊 GitHub Stats
 
 ![Hery's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hery34&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hery34&layout=compact&theme=tokyonight)
 
-### 🌟 Projets en vedette
+### 🌟 Featured Projects
 
-#### 🏢 Applications Professionnelles
-- **Annexx Mobile App v2.0** - Suite d'applications mobiles Flutter avec authentification biométrique
-- **E-commerce Platform** - Solution complète Java/Spring Boot + Angular
-- **Proxigo** - App géolocalisation multi-services (Flutter + NestJS + GraphQL)
+#### 🏢 Professional Applications
+- **Annexx Mobile App v2.0** - Flutter mobile app suite with biometric authentication
+- **E-commerce Platform** - Complete Java/Spring Boot + Angular solution
+- **Proxigo** - Multi-service geolocation app (Flutter + NestJS + GraphQL)
 
-#### 🎨 Projets Créatifs
-- **PokeFight** - Application de combat développée en PHP
-- **Symfoot** - App football sous Symfony 6.3
-- **Le Grenier à Épices** - Site e-commerce WordPress/WooCommerce
+#### 🎨 Creative Projects
+- **PokeFight** - Combat application developed in PHP
+- **Symfoot** - Football app built with Symfony 6.3
+- **Le Grenier à Épices** - E-commerce site with WordPress/WooCommerce
 
-### 🎓 Certifications récentes
+#### 📦 Open Source Packages
+- **[pub.dev packages](https://pub.dev/publishers/hery.website/packages)** - Flutter packages with 500+ downloads
+- Contributing to the Flutter ecosystem with production-ready solutions
+
+### 🎓 Recent Certifications
 - 🎯 **Lead Developer** - Doranco Paris (2024)
 - 📱 **Front-end & Mobile Development** - Beweb (2023)
 - 🤖 **AI Multi-agents System** - CrewAI (2025)
 
-### 📫 Me contacter
+### 📫 Get in touch
 
 [![Website](https://img.shields.io/badge/Portfolio-hery.website-blue?style=for-the-badge&logo=firefox&logoColor=white)](https://www.hery.website/)
 [![Email](https://img.shields.io/badge/Email-me@hery.website-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me@hery.website)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hery--rakotomanana--andrianjohany-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hery-rakotomanana-andrianjohany-/)
+[![pub.dev](https://img.shields.io/badge/pub.dev-packages-blue?style=for-the-badge&logo=dart&logoColor=white)](https://pub.dev/publishers/hery.website/packages)
 
 ---
 
 *"Results-driven mobile developer leveraging Flutter expertise alongside full-stack capabilities"* 🚀
 
-💡 **Ouvert aux opportunités** : Freelance, CDI, missions courtes - Discutons de votre projet !
+💡 **Open to opportunities**: Freelance, Full-time, Short missions - Let's discuss your project!
 
 ---
 
 ### 🎭 Fun facts
-- 📚 Passionné de littérature russe du 18ème siècle
-- 🎸 Amateur de rock des années 1967-1973
-- 🔮 Passionné d'esotérisme
-- 🤝 Engagé dans des organisations caritatives
+- 📚 Passionate about 18th century Russian literature
+- 🎸 Rock music enthusiast (1967-1973 era)
+- 🔮 Interested in esotericism
+- 🤝 Engaged in charitable organizations
